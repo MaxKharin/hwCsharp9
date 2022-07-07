@@ -1,0 +1,15 @@
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/bin/Debug/net6.0/tas2
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/bin/Debug/net6.0/tas2.deps.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/bin/Debug/net6.0/tas2.runtimeconfig.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/bin/Debug/net6.0/tas2.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/bin/Debug/net6.0/tas2.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.csproj.AssemblyReference.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.AssemblyInfoInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.AssemblyInfo.cs
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.csproj.CoreCompileInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/refint/tas2.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/tas2.genruntimeconfig.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp9/task2/obj/Debug/net6.0/ref/tas2.dll
