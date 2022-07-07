@@ -9,18 +9,18 @@ int max = 10;
 int[,] array = InitArray(row, column, min, max);
 PrintArray(array);
 
-int minSumLine = 0;
-int sumLine = SumRowElements(array, 0);
+int minSumRow = 0;
+int sumRow = SumRowElements(array, 0);
 for (int i = 1; i < array.GetLength(0); i++)
 {
-    int tempSumLine = SumRowElements(array, i);
-    if (sumLine > tempSumLine)
+    int tempSumRow = SumRowElements(array, i);
+    if (tempSumRow < sumRow)
     {
-        sumLine = tempSumLine;
-        minSumLine = i;
+        sumRow = tempSumRow;
+        minSumRow = i;
     }
 }
-Console.WriteLine($"Row number {minSumLine+1} is the row with a minimum sum of the elements ({sumLine})");
+Console.WriteLine($"Row number {minSumRow+1} is the row with a minimum sum of the elements ({sumRow})");
 
 int SumRowElements(int[,] array, int i)
 {

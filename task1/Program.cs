@@ -21,7 +21,7 @@ void SortArrayRows(int[,] array)
         {
             for (int k = 0; k < array.GetLength(1) - 1; k++)
             {
-                if (array[i, k] < array[i, k + 1])
+                if (array[i, k + 1] > array[i, k])
                 {
                     int temp = array[i, k + 1];
                     array[i, k + 1] = array[i, k];
